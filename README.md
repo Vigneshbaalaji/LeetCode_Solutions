@@ -37,7 +37,7 @@
     <td>27</td>
     <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Remove_Element.py">Remove Element</a></td> 
     <td>Easy</td>
-    <td>--</td>
+    <td>O(m*n)</td>
   </tr>
 
   <tr>
