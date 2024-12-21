@@ -15,7 +15,7 @@
     <td>1</td>
     <td>Two Sum</td> 
     <td>Easy</td>
-    <td>--</td>
+    <td>O(n<sup>2</sup>)</td>
   </tr>
   
   <tr>
