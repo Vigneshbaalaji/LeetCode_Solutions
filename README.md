@@ -20,7 +20,7 @@
   
   <tr>
     <td>2</td>
-    <td>Add Two Numbers</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Add_Two_Numbers.py">Add Two Numbers</a></td> 
     <td>Medium</td>
     <td>O(n+m)</td>
   </tr>
@@ -28,42 +28,42 @@
   
   <tr>
     <td>9</td>
-    <td>Palindrome Number</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Palindrome_Number.py">Palindrome Number</a></td> 
     <td>Easy</td>
     <td>O(n)</td>
   </tr>
   
   <tr>
     <td>27</td>
-    <td>Remove Element</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Remove_Element.py">Remove Element</a></td> 
     <td>Easy</td>
     <td>--</td>
   </tr>
 
   <tr>
     <td>70</td>
-    <td>Climbing Stairs</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Climbing_Stairs.py">Climbing Stairs</a></td> 
     <td>Easy</td>
     <td>O(n)</td>
   </tr>
   
   <tr>
     <td>169</td>
-    <td>Majority Element</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Majority_Element.py">Majority Element</a></td> 
     <td>Easy</td>
     <td>--</td>
   </tr>
   
   <tr>
     <td>300</td>
-    <td>Longest Increasing Subsequence</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Longest_Increasing_Subsequence.py">Longest Increasing Subsequence</a></td> 
     <td>Medium</td>
     <td>--</td>
   </tr>
 
   <tr>
     <td>746</td>
-    <td>Min Cost Climbing Stairs</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Min_Cost_Climbing_Stairs.py">Min Cost Climbing Stairs</a></td> 
     <td>Easy</td>
     <td>O(n)</td>
   </tr>
