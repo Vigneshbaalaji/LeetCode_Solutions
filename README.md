@@ -60,5 +60,12 @@
     <td>Medium</td>
     <td>--</td>
   </tr>
+
+  <tr>
+    <td>746</td>
+    <td>Min Cost Climbing Stairs</td> 
+    <td>Easy</td>
+    <td>--</td>
+  </tr>
   
 </table>
