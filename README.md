@@ -13,7 +13,7 @@
   
   <tr>
     <td>1</td>
-    <td>Two Sum</td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Two_Sum.py">Two Sum</a></td> 
     <td>Easy</td>
     <td>O(n<sup>2</sup>)</td>
   </tr>
