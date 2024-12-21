@@ -51,14 +51,14 @@
     <td>169</td>
     <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Majority_Element.py">Majority Element</a></td> 
     <td>Easy</td>
-    <td>--</td>
+    <td>O(nlogn)</td>
   </tr>
   
   <tr>
     <td>300</td>
     <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Longest_Increasing_Subsequence.py">Longest Increasing Subsequence</a></td> 
     <td>Medium</td>
-    <td>--</td>
+    <td>O(n<sup>2</sup>)</td>
   </tr>
 
   <tr>
