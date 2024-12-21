@@ -22,7 +22,7 @@
     <td>2</td>
     <td>Add Two Numbers</td> 
     <td>Medium</td>
-    <td>--</td>
+    <td>O(n+m)</td>
   </tr>
   
   
