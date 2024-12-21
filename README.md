@@ -30,7 +30,7 @@
     <td>9</td>
     <td>Palindrome Number</td> 
     <td>Easy</td>
-    <td>--</td>
+    <td>O(n)</td>
   </tr>
   
   <tr>
