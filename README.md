@@ -65,7 +65,7 @@
     <td>746</td>
     <td>Min Cost Climbing Stairs</td> 
     <td>Easy</td>
-    <td>--</td>
+    <td>O(n)</td>
   </tr>
   
 </table>
