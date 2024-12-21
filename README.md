@@ -14,7 +14,7 @@
   <tr>
     <td>1</td>
     <td>Two Sum</td> 
-    <td>Easy</td>
+    <td style="color:#00B8A3">Easy</td>
     <td>--</td>
   </tr>
   
