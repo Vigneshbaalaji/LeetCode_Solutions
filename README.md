@@ -39,6 +39,13 @@
     <td>Easy</td>
     <td>--</td>
   </tr>
+
+  <tr>
+    <td>70</td>
+    <td>Climbing Stairs</td> 
+    <td>Easy</td>
+    <td>O(n)</td>
+  </tr>
   
   <tr>
     <td>169</td>
