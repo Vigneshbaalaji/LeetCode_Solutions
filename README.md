@@ -56,7 +56,7 @@
   
   <tr>
     <td>217</td>
-    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Contains_Duplicate.py">Contains Duplicates</a></td> 
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Contains_Duplicate.py">Contains Duplicate</a></td> 
     <td>Easy</td>
     <td>O(n)</td>
   </tr>
