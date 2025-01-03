@@ -55,6 +55,13 @@
   </tr>
   
   <tr>
+    <td>217</td>
+    <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Contains_Duplicate.py">Contains Duplicates</a></td> 
+    <td>Easy</td>
+    <td>O(n)</td>
+  </tr>
+  
+  <tr>
     <td>300</td>
     <td><a href="https://github.com/Vigneshbaalaji/LeetCode_Solutions/blob/main/Longest_Increasing_Subsequence.py">Longest Increasing Subsequence</a></td> 
     <td>Medium</td>
